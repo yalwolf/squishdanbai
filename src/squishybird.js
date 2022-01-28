@@ -491,7 +491,7 @@ parody.div.style.textAlign = 'center';
 parody.div.style.fontFamily = 'Verdana';
 parody.div.style.fontSize = '12px';
 parody.div.style.zIndex = 87654;
-parody.div.innerHTML = '这不是 flappy bird！只是个模仿 - www.dzzoffice.com';
+parody.div.innerHTML = '©2022&nbsp;<a href="https://alwolf.cn/mian" style="text-decoration:none;">一只阿狼哒</a>';
 
 var points = 0;
 var highscore = 0;
